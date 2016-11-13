@@ -1,0 +1,2 @@
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/SingleElectronD/output_42.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/SingleElectronD/output_52.root

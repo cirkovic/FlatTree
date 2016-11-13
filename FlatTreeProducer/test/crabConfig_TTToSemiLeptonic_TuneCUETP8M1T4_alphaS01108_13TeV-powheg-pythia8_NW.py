@@ -1,0 +1,23 @@
+from CRABClient.UserUtilities import config, getUsernameFromSiteDB
+config = config()
+
+#config.General.requestName = 'FCNC_MC_analysis_TTbar_Hct_1'
+config.General.workArea = 'crab_projects'
+#config.General.transferOutputs = True
+#config.General.transferLogs = True
+
+config.JobType.pluginName = 'Analysis'
+config.JobType.psetName = 'runFlatTreeMINIAOD_cfg.py'
+config.JobType.inputFiles = ['conf.xml']
+
+config.Data.inputDataset = '/TTToSemiLeptonic_TuneCUETP8M1T4_alphaS01108_13TeV-powheg-pythia8/RunIISpring16MiniAODv2-premix_withHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM'
+#config.Data.inputDBS = 'phys03'
+config.Data.splitting = 'FileBased'
+config.Data.unitsPerJob = 1
+#config.Data.totalUnits = 100
+config.Data.totalUnits = 1
+#config.Data.outLFNDirBase = '/store/user/%s/' % (getUsernameFromSiteDB())
+#config.Data.publication = True
+#config.Data.outputDatasetTag = 'CRAB3_tutorial_May2015_MC_analysis'
+
+config.Site.storageSite = 'T2_US_Nebraska'

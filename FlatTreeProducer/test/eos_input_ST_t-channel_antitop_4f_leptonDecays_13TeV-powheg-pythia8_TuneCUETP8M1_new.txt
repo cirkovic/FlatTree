@@ -1,0 +1,15 @@
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_11.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_12.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_19.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_24.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_25.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_27.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_28.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_32.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_33.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_41.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_45.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_48.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_51.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_66.root
+/eos/cms/store/caf/user/mdjordje/Cirkovic/FCNC/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1_NEW/output_68.root
